@@ -47,7 +47,7 @@ You're seriously starting to bother me.
 Installation
 --------------------------------------------------------------------------------
 
-String Pants is compatible with Node.js your typical CommonJS `require` shim,
+String Pants is compatible with Node.js, your typical CommonJS `require` shim,
 RequireJS and plain old `<script>` tag embedding. If you choose to use the script
 tag method, the extensions will be installed on `String.prototype` by default
 because you obviously don't give a shit.
