@@ -1,0 +1,28 @@
+{
+  "name" : "string-pants",
+  "description" : "Some pants for your strings.",
+  "version" : "0.1.0", 
+  "homepage" : "http://github.com/dandean/string-pants",
+  "author" : "Dan Dean <me@dandean.com> (http://dandean.com)",
+  "contributors" : [],
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "http://github.com/dandean/string-pants.git"
+  },
+  "bugs" : {
+    "mail" : "me@dandean.com",
+    "url" : "http://github.com/dandean/string-pants/issues"
+  },
+  "main" : "index",
+  "scripts": {
+    "test": "make test"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "licenses" : [{
+    "type" : "MIT",
+    "url" : "http://github.com/dandean/string-pants/raw/master/LICENSE"
+  }]
+}
