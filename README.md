@@ -13,7 +13,7 @@ If you install it you'll get to use it like this:
 
 ```js
 require('string-pants').install();
-'this is rad.camel();
+'this is rad'.camel();
 // --> thisIsRad
 ```
 
