@@ -4,7 +4,7 @@ if (typeof window === 'undefined') {
 }
 
 describe('String Pants', function() {
-  pants.install();
+  if (typeof pants != 'undefined') pants.install();
 
   it('should get words from a string', function() {
     var result;
